@@ -2,15 +2,16 @@ MAPTrainer
 ==========
 
 *MAPTrainer* is a Python framework based on the PyTorch library[^1]
-dedicated to machine learning research in the context of MAP. As
-PyTorch, it uses GPUs and CPUs. MAPTrainer is a native Python package by
-design, called `maptrainer`. Its functionalities are built as Python
-classes, which enable the integration of its code with Python packages
-and modules. Relying on PyTorch, it enables GPU-accelerated training,
-through CUDA, for machine learning, and especially neural network
-applications. The objective of this framework is to train any machine
-learning model, built with PyTorch, for any MAP scenario. Parameters
-defining the MAP scenario are provided to the programme.
+dedicated to machine learning research in the context of MultiAgent
+Patrolling (MAP). As PyTorch, it uses GPUs and CPUs. MAPTrainer is a
+native Python package by design, called `maptrainer`. Its
+functionalities are built as Python classes, which enable the
+integration of its code with Python packages and modules. Relying on
+PyTorch, it enables GPU-accelerated training, through CUDA, for machine
+learning, and especially neural network applications. The objective of
+this framework is to train any machine learning model, built with
+PyTorch, for any MAP scenario. Parameters defining the MAP scenario are
+provided to the programme.
 
 ### `maptrainer.model`
 
