@@ -54,4 +54,4 @@ data loader, the learning rate, and the number of epochs, among others.
 criterion to optimise, the data loader, the learning rate, and the
 number of epochs, among others.
 
-[^1]: https://pytorch.org.
+[^1]: https://pytorch.org
